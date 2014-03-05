@@ -43,3 +43,7 @@ JavaScript coding convention is inspired by the Douglas Crockford Conventions wi
 
 Cont..
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/abdulhamid-alattar/front-end-naming-conventions/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
