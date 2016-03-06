@@ -89,3 +89,7 @@ The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/abdulhamid-alattar/front-end-naming-conventions/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/abdulhamid-alattar/front-end-files-naming-conventions/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
